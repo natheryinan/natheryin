@@ -1,0 +1,5 @@
+core_logic/
+private_evidence/
+*.env
+*.bak
+# DO NOT REMOVE: Physical plane glitches isolation
